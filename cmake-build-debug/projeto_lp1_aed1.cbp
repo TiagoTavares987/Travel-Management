@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="projeto_lp1_aed1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projeto_lp1_aed1">
+				<Option output="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/projeto_lp1_aed1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 projeto_lp1_aed1"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projeto_lp1_aed1/fast">
+				<Option output="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/projeto_lp1_aed1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 projeto_lp1_aed1/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tiago/CLionProjects/projeto_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/Ficheiros/ficheiro_cliente.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/Ficheiros/ficheiro_cliente.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/cidade.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/cidade.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/cliente.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/cliente.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/historico_e_pesquisa.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/historico_e_pesquisa.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/main.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/poi.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/poi.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/cidade_test.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/cidade_test.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/cliente_test.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/cliente_test.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/ficheiro_cliente_test.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/ficheiro_cliente_test.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/poi_test.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/poi_test.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/viagem_test.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/test/viagem_test.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/tsp.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/tsp.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/viagem.c">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/viagem.h">
+			<Option target="projeto_lp1_aed1"/>
+		</Unit>
+		<Unit filename="C:/Users/Tiago/CLionProjects/projeto_final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
